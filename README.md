@@ -14,11 +14,11 @@ NoSleep is an innovative application designed to help prevent drowsiness. It's e
 2. Extract the zip file to a desired location on your computer.
 3. Inside the extracted NoSleep folder, you will find the executable file and other necessary components.
 
-Additional Steps for Running from Source Code
+## Additional Steps for Running from Source Code
 If you are setting up NoSleep by running the Python source code instead of using the executable, you will need to manually download the shape_predictor_68_face_landmarks.dat file, which is essential for the facial recognition feature.
 
-Download the Shape Predictor File:
-The shape_predictor_68_face_landmarks.dat file can be downloaded from [This link]([https://example.com](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat))
+### Download the Shape Predictor File:
+The shape_predictor_68_face_landmarks.dat file can be downloaded from [this link.](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
 Once downloaded, place this file in the same directory as the NoSleep.py script.
 Continue with the rest of the setup as usual.
 
